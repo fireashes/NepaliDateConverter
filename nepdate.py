@@ -1,5 +1,5 @@
 ### BEGIN LICENSE
-# Copyright (C) 2011 Shritesh Bhattarai shriteshb@gmail.com
+# Started by Shritesh Bhattarai shriteshb@gmail.com
 # This program is free software: you can redistribute it and/or modify it 
 # under the terms of the GNU General Public License version 3, as published 
 # by the Free Software Foundation.
